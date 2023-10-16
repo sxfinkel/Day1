@@ -1,6 +1,6 @@
 package day1;
 
-public class Util {as
+public class Util {
 
     //Base URL of the test website
     public static final String BASE_URL = "http://www.demo.guru99.com/";
